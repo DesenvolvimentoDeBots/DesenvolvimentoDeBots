@@ -33,12 +33,15 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [Bot Minicurso Telegram usando PHP](https://github.com/vitormattos/bot-minicurso-telegram)
 
 ## Projetos criado pela comunidade
-Bots desenvolvido pelos membros do grupo
+*Bots desenvolvido pelos membros do grupo*
 - [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por TiagoDanin - Um plugin de busca no Spotify para bot no Telegram
 - [SendCH-Telegram](https://github.com/TiagoDanin/SendCH-Telegram) por TiagoDanin - Um webapp para enviar mensagem com suporte a Markdown no Telegram
 - [SiD](https://github.com/TiagoDanin/SiD) por TiagoDanin - Um bot baseado no Otouto com suporte a Inline
 - [SiDBot](https://github.com/TiagoDanin/SiDBot) por TiagoDanin - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python
 - [Bot Packagist](https://github.com/vitormattos/bot-packagist) por VitorMattos - Um Telegram Bot para pesquisar em packagist.org
+
+*Bots para outras plataformas*
+- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi)
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
