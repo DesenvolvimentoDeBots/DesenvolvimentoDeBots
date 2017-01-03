@@ -39,3 +39,6 @@ Bots desenvolvido pelos membros do grupo
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
+
+## Contribuir
+Crie um novo [Issue](https://github.com/TiagoDanin/DesenvolvimentoDeBots/issues/new) ou [Pull Request](https://github.com/TiagoDanin/DesenvolvimentoDeBots/compare) com a url que deseja adicionar 
