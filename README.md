@@ -16,6 +16,9 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [Telegram Bot Bash - Bash](https://github.com/topkecleon/telegram-bot-bash)
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
 - [PHP-Telegram - PHP](https://github.com/resistencia-rio/PHP-Telegram)
+- [Telepot- Python](https://github.com/nickoala/telepot)
+- [Margelet - Go](https://github.com/zhulik/margelet)
+- [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
 
 *APIs*
 - [Telegram API](core.telegram.org/bots/api)
