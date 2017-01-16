@@ -30,6 +30,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [OpenShift](https://www.openshift.com/)
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Codenvy](https://codenvy.com/)
+- [scaleway](https://www.scaleway.com/)
 
 ## Tutorias
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
@@ -42,6 +43,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [SiD](https://github.com/TiagoDanin/SiD) por TiagoDanin - Um bot baseado no Otouto com suporte a Inline
 - [SiDBot](https://github.com/TiagoDanin/SiDBot) por TiagoDanin - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python
 - [Bot Packagist](https://github.com/vitormattos/bot-packagist) por VitorMattos - Um Telegram Bot para pesquisar em packagist.org
+- [Myinstantsbot](https://github.com/heylouiz/myinstantsbot) por Heylouiz - Um Telegram Bot que busca sons no [Myintants](www.myinstants.com) e os manda como mensagens de voz.
 
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi)
