@@ -30,7 +30,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [OpenShift](https://www.openshift.com/)
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Codenvy](https://codenvy.com/)
-- [scaleway](https://www.scaleway.com/)
+- [Scaleway](https://www.scaleway.com/)
 
 ## Tutorias
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
