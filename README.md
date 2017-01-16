@@ -21,7 +21,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
 
 *APIs*
-- [Telegram API](core.telegram.org/bots/api)
+- [Telegram API](https://core.telegram.org/bots/api)
 - [PWRTelegram API](http://pwrtelegram.xyz/)
 - [Botan](http://botan.io/)
 
