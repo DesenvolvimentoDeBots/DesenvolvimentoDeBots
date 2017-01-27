@@ -9,16 +9,19 @@ Grupo de discussão sobre desenvolvimento de robôs para Telegram.
 E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot autônomos não é permito
 
 ## Ferramentas
-*Bot e Framework para serem usado como base*
+*Frameworks / SDK para Telegram*
+- [Jack Telegram Bot - MoonScript](https://github.com/Imandaneshi/jack-telegram-bot)
+- [MadelineProto - PHP](https://github.com/danog/MadelineProto)
+Implementação de MTProto em PHP
+- [Margelet - Go](https://github.com/zhulik/margelet)
 - [Otouto - Lua](https://github.com/topkecleon/otouto)
 - [Python Telegram Bot - Python](https://github.com/python-telegram-bot/python-telegram-bot)
-- [Jack Telegram Bot - MoonScript](https://github.com/Imandaneshi/jack-telegram-bot)
-- [Telegram Bot Bash - Bash](https://github.com/topkecleon/telegram-bot-bash)
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
-- [PHP-Telegram - PHP](https://github.com/resistencia-rio/PHP-Telegram)
-- [Telepot- Python](https://github.com/nickoala/telepot)
-- [Margelet - Go](https://github.com/zhulik/margelet)
 - [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
+- [Telegram Bot Bash - Bash](https://github.com/topkecleon/telegram-bot-bash)
+- [Telegram Bot PHP SDK - PHP](https://telegram-bot-sdk.readme.io/docs)
+- [Telegram Cli Client - PHP](https://github.com/zyberspace/php-telegram-cli-client)
+- [Telepot - Python](https://github.com/nickoala/telepot)
 
 *APIs*
 - [Telegram API](https://core.telegram.org/bots/api)
