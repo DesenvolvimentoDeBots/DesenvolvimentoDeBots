@@ -47,12 +47,12 @@ Implementação de MTProto em PHP
 - [SiDBot](https://github.com/TiagoDanin/SiDBot) por TiagoDanin - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python
 - [Bot Packagist](https://github.com/vitormattos/bot-packagist) por VitorMattos - Um Telegram Bot para pesquisar em packagist.org
 - [Myinstantsbot](https://github.com/heylouiz/myinstantsbot) por Heylouiz - Um Telegram Bot que busca sons no [Myintants](www.myinstants.com) e os manda como mensagens de voz.
-- [QPython-Telegram-bot-api](https://github.com/VycktorStark/QPython-Telegram-bot-api) por Vycktor Stark e Adilson Cavalcante - Um Telegram Bot simples que utilizar o QPython.
-- [Robô Db](https://github.com/VycktorStark/DbRobot) por Vycktor Stark - Um Telegram Bot baseado no projeto Telebots feito pela equipe Synko Developers e no [SiD](https://github.com/TiagoDanin/SiD) feito pelo [Tiago Danin](https://github.com/TiagoDanin/SiD)
+- [Qpybot](https://github.com/VycktorStark/QPython-Telegram-bot-api) por Vycktor Stark e Adilson Cavalcante - Um Telegram Bot simples que utilizar o QPython.
+- [Robô Db](https://github.com/VycktorStark/DbRobot) por Vycktor Stark, Adilson Cavalcante e Wesley Henrique - Um Telegram Bot baseado no projeto Telebots feito pela equipe Synko Developers e no [SiD](https://github.com/TiagoDanin/SiD) feito pelo [Tiago Danin](https://github.com/TiagoDanin/SiD)
+- [NSFW](https://github.com/VycktorStark/NSFW) por Vycktor Stark - Um Telegram Bot simples que utilizar o QPython para fazer auto postagem.
 
 *Bots para outras plataformas*
-- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi)
-
+- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) - Um bot que utiliza a IA do SimSimi.
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
 
