@@ -52,8 +52,7 @@ Implementação de MTProto em PHP
 - [NSFW](https://github.com/VycktorStark/NSFW) por Vycktor Stark - Um Telegram Bot simples que utilizar o QPython para fazer auto postagem.
 
 *Bots para outras plataformas*
-- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) - Um Bot que usa o site [API.AI](https://api.ai/) para fazer integração de plataformas que contém interações de bot.
-
+- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) - Um bot que utiliza a IA do SimSimi.
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
 
