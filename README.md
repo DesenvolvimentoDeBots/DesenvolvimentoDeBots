@@ -35,7 +35,7 @@ Implementação de MTProto em PHP
 - [Codenvy](https://codenvy.com/)
 - [Scaleway](https://www.scaleway.com/)
 
-## Tutorias
+## Tutoriais
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
 - [Bot Minicurso Telegram usando PHP](https://github.com/vitormattos/bot-minicurso-telegram)
 
