@@ -51,6 +51,7 @@ Implementação de MTProto em PHP
 - [Robô Db vs 2.0](https://github.com/VycktorStark/DbRobot-Lua.git) por Vycktor Stark, Adilson Cavalcante e Wesley Henrique - Um Telegram Bot baseado no projeto da equipe Synko Developers, e no projeto do [SiD](https://github.com/TiagoDanin/SiD) feito pelo [Tiago Danin](https://github.com/TiagoDanin/SiD).
 - [Robô Db vs 3.0](https://github.com/VycktorStark/DbRobot-Python.git) por Vycktor Stark - Um Telegram Bot baseado nas antigas versões do Robô Db, agora feito do zero e escrito em Python que utiliza a lib: "Telepot".
 - [NSFW](https://github.com/VycktorStark/NSFW) por Vycktor Stark - Um Telegram Bot simples que executa até no Qpython(aplicativo de python para android) e utiliza a lib: "Telepot", para fazer auto-postagem.
+- [ImageVisionBot](https://github.com/0x7067/imagevision-bot) por Pedro Guimarães, um bot que usa visão computacional para descrever imagens.
 
 *Bots para outras plataformas*
 - [Robô Db vs 4.0](https://github.com/VycktorStark/DbRobot-Facebook-Python) por Vycktor Stark  - Um bot simples que usa a API "Facebook-Bot-API" escrita em Python.
