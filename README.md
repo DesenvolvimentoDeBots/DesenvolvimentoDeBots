@@ -55,6 +55,7 @@ Implementação de MTProto em PHP.
 - [ImageVisionBot](https://github.com/0x7067/imagevision-bot) por [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 - [Easy Currency](https://telegram.me/easy_currency_bot) por [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 - [RobôED](https://telegram.me/EdRobot) por [Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
+- [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 
 *Bots para outras plataformas*
 - [Robô Db vs 4.0](https://github.com/VycktorStark/DbRobot-Facebook-Python) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot simples que usa a API "Facebook-Bot-API" escrita em Python.
