@@ -43,6 +43,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 ## Projetos criado pela comunidade
 *Bots desenvolvido pelos membros do grupo*
 - [Bot Packagist](https://github.com/vitormattos/bot-packagist) por [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
+- [Currencies Robot](https://github.com/joaokhaled/Currencies-Robot) por [Khaled](https://github.com/joaokhaled) - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
 - [Easy Currency](https://telegram.me/easy_currency_bot) por [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 - [ImageVisionBot](https://github.com/0x7067/imagevision-bot) por [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 - [Myinstantsbot](https://github.com/heylouiz/myinstantsbot) por [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no [Myintants](www.myinstants.com) e os manda como mensagens de voz.
@@ -55,7 +56,6 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [SiD](https://github.com/TiagoDanin/SiD) por [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado no Otouto com suporte a Inline.
 - [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
 - [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
-- [Currencies Robot](https://github.com/joaokhaled/Currencies-Robot) por [Khaled](https://github.com/joaokhaled) - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
 
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
