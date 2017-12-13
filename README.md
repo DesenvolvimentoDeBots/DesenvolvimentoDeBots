@@ -55,6 +55,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [SiD](https://github.com/TiagoDanin/SiD) por [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado no Otouto com suporte a Inline.
 - [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
 - [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
+- [Currencies Robot](https://github.com/joaokhaled/Currencies-Robot) por [Khaled](https://github.com/joaokhaled) - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
 
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
