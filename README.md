@@ -38,6 +38,8 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 
 ## Tutoriais
 - [Bot Minicurso Telegram usando PHP](https://github.com/vitormattos/bot-minicurso-telegram)
+- [Criando um Bot para o Telegram em PHP - Parte 1](https://luizmarcus.com/php/como-criar-um-bot-para-o-telegram-em-php-parte-1/)
+- [Criando um Bot para o Telegram em PHP - Parte 2](http://luizmarcus.com/php/como-criar-um-bot-para-o-telegram-em-php-parte-2/)
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
 
 ## Projetos criado pela comunidade
