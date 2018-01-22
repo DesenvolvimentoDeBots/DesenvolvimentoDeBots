@@ -14,6 +14,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [Jack Telegram Bot - MoonScript](https://github.com/Imandaneshi/jack-telegram-bot)
 - [MadelineProto - PHP](https://github.com/danog/MadelineProto) Implementação de MTProto em PHP.
 - [Margelet - Go](https://github.com/zhulik/margelet)
+- [Node.js Telegram Bot API - JavaScript](https://github.com/yagop/node-telegram-bot-api/) 
 - [Otouto - Lua](https://github.com/topkecleon/otouto)
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
 - [Python Telegram Bot - Python](https://github.com/python-telegram-bot/python-telegram-bot)
