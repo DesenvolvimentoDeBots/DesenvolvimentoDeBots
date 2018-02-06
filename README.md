@@ -47,21 +47,23 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 *Bots desenvolvido pelos membros do grupo*
 - [Bot Packagist](https://github.com/vitormattos/bot-packagist) por [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
 - [Currencies Robot](https://github.com/joaokhaled/Currencies-Robot) por [Khaled](https://github.com/joaokhaled) - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
-- [Easy Currency](https://telegram.me/easy_currency_bot) por [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
+- [Easy Currency](https://telegram.me/easy_currency_bot) por [Thomas Groch](https://github.com/thomasgroch) - Um Telegram bot com uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 - [ImageVisionBot](https://github.com/0x7067/imagevision-bot) por [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 - [Myinstantsbot](https://github.com/heylouiz/myinstantsbot) por [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no [Myintants](www.myinstants.com) e os manda como mensagens de voz.
 - [Robô Db vs 1.0](https://github.com/VycktorStark/DbBot.git) por [Vycktor Stark](https://github.com/VycktorStark) e [Adilson Cavalcante](https://github.com/Player4NoobWinner) - Um Telegram Bot simples que executa até no [Qpython](http://www.qpython.com/).
 - [Robô Db vs 2.0](https://github.com/VycktorStark/DbRobot-Lua.git) por [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot baseado no projeto da equipe Synko Developers, e no projeto do [SiD](https://github.com/TiagoDanin/SiD) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 - [Robô Db vs 3.0](https://github.com/VycktorStark/DbRobot-Python.git) por [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot baseado nas antigas versões do Robô Db.
-- [RobôED](https://telegram.me/EdRobot) por [Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
+- [RobôED](https://telegram.me/EdRobot) por [Synko Developers](https://synko.com.br) - Um Telegram bot criado pra tornar seu grupo mais divertido e organizado.
 - [SendCH-Telegram](https://github.com/TiagoDanin/SendCH-Telegram) por [TiagoDanin](https://github.com/TiagoDanin) - Um webapp para enviar mensagem com suporte a Markdown no Telegram.
-- [SiDBot](https://github.com/TiagoDanin/SiDBot) por [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
-- [SiD](https://github.com/TiagoDanin/SiD) por [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado no Otouto com suporte a Inline.
-- [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
-- [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
+- [SiDBot](https://github.com/TiagoDanin/SiDBot) por [TiagoDanin](https://github.com/TiagoDanin) - Um Telegram bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
+- [SiD](https://github.com/TiagoDanin/SiD) por [TiagoDanin](https://github.com/TiagoDanin) - Um Telegram bot baseado no Otouto com suporte a Inline.
+- [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por [TiagoDanin](https://github.com/TiagoDanin) - Um Telegram bot com uma coleção de plugins para busca no Spotify.
+- [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Um Telegram Bot feito com Threads nativa da linguagem Python.
+- [Nathy BOT](https://github.com/VycktorStark/Nathy) por [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot com aiml feito com a lib Telepot.
+- [F.R.I.D.A.Y.](https://github.com/VycktorStark/Friday) por [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot escrito em Python, com gerenciamento de plugins.
 
 *Bots para outras plataformas*
-- [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
+- [Api.AI-Simsimi](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
 - [Robô Db vs 4.0](https://github.com/VycktorStark/DbRobot-Facebook-Python) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot simples que usa a API "Facebook-Bot-API" escrita em Python.
 
 ## Grupos parecidos
