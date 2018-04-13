@@ -65,6 +65,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
 - [Robô Db vs 4.0](https://github.com/VycktorStark/DbRobot-Facebook-Python) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot simples que usa a API "Facebook-Bot-API" escrita em Python.
+- [Taylor Bot Discord](https://github.com/francis-taylor/Taylorbot-Discord) por [Francis Taylor](https://github.com/francis-taylor) - Primeira versão do [Taylor Robot](https://t.me/Taylor_robot) feita para o Discord.
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
