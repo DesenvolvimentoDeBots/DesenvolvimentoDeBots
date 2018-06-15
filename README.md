@@ -60,7 +60,7 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [SpotifyTelegram](https://github.com/TiagoDanin/SpotifyTelegram) por [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
 - [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 - [Nathy BOT](https://github.com/VycktorStark/Nathy) por [Vycktor Stark](https://github.com/VycktorStark) - Bot com AIML + Telepot.
- - [F.R.I.D.A.Y.](https://github.com/VycktorStark/Friday) por [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
+ - [F.R.I.D.A.Y.](https://github.com/DialogWizards/Friday) por [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
 
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
