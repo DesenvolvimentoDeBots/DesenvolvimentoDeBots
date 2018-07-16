@@ -62,6 +62,8 @@ E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot aut�
 - [Timmoty](https://github.com/Francis-Taylor/Timotty-Master) por [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 - [Nathy BOT](https://github.com/VycktorStark/Nathy) por [Vycktor Stark](https://github.com/VycktorStark) - Bot com AIML + Telepot.
  - [F.R.I.D.A.Y.](https://github.com/DialogWizards/Friday) por [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
+- [ts2chbot](https://t.me/ts2chbot) por [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
+- [imguradbot](https://t.me/imguradbot) por [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para baixar imagens de álbuns do Imgur.
 
 *Bots para outras plataformas*
 - [Api.AI-Simsimi - API.IA](https://github.com/VycktorStark/Api.AI-Simsimi) por [Vycktor Stark](https://github.com/VycktorStark)  - Um bot que utiliza a IA do SimSimi.
