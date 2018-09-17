@@ -41,6 +41,7 @@ article: true
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [OpenShift](https://www.openshift.com/)
+- [PythonAnywhere](https://www.pythonanywhere.com/)
 - [Scaleway](https://www.scaleway.com/)
 
 ## Tutoriais
