@@ -92,6 +92,10 @@ article: true
 
 - ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
 
+- RastreioBot ([@RastreioBot](https://t.me/RastreioBot)) ([GitHub](https://github.com/GabrielRF/RastreioBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
+
+- Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
+
 
 _Bots para outras plataformas_
 - Api.AI-Simsimi [API.IA] ([GitHub](https://github.com/VycktorStark/Api.AI-Simsimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot que utiliza a IA do SimSimi.
