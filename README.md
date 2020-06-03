@@ -30,6 +30,7 @@ article: true
 - [Telegram Cli Client - PHP](https://github.com/zyberspace/php-telegram-cli-client)
 - [Telepot - JavaScript](https://github.com/mullwar/telebot)
 - [Telepot - Python](https://github.com/nickoala/telepot)
+- [Telethon - Python](https://github.com/LonamiWebs/Telethon)
 
 *APIs*
 - [Botan](http://botan.io/)
@@ -93,6 +94,8 @@ article: true
 - RastreioBot ([@RastreioBot](https://t.me/RastreioBot)) ([GitHub](https://github.com/GabrielRF/RastreioBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
 
 - Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
+
+- Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
 
 _Bots para outras plataformas_
