@@ -73,7 +73,7 @@ article: true
 
 - Robô Db [vs 2.0] ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 
-- Robô Db [vs 3.0] ([GitHub](https://github.com/VycktorStark/DBGameGO)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
+- MathGame ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
 
 - TetasRobot ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
 
