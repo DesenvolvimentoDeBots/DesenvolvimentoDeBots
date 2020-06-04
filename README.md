@@ -100,7 +100,7 @@ article: true
 
 _Bots para outras plataformas_
 
-- Robô Db vs 4.0 [Facebook] ([GitHub](https://github.com/VycktorStark/DbRobot-Facebook-Python)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
+- Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
 
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
