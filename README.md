@@ -75,6 +75,8 @@ article: true
 
 - [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
 
+- [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
+
 - [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
 
 - RobôED [(@EdRobot)](https://telegram.me/EdRobot) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
