@@ -69,13 +69,15 @@ article: true
 
 - Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot simples, feito em Python + AIML.
 
-- Robô Db [vs 1.0] ([GitHub](https://github.com/VycktorStark/DbBot.git)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) e [Adilson Cavalcante](https://github.com/Player4NoobWinner) - Um Telegram Bot simples que pode ser executado até no Qpython (android), feito em Python.
+- DbBot ([GitHub](https://github.com/VycktorStark/DbBot.git)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) e [Adilson Cavalcante](https://github.com/Player4NoobWinner) - Um Telegram Bot simples que pode ser executado até no Qpython (android), feito em Python.
 
-- Robô Db [vs 2.0] ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
+- Robô Db ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 
-- Robô Db [vs 3.0] ([GitHub](https://github.com/VycktorStark/DBGameGO)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
+- [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
 
-- TetasRobot ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
+- [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
+
+- [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
 
 - RobôED [(@EdRobot)](https://telegram.me/EdRobot) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
 
@@ -100,7 +102,7 @@ article: true
 
 _Bots para outras plataformas_
 
-- Robô Db vs 4.0 [Facebook] ([GitHub](https://github.com/VycktorStark/DbRobot-Facebook-Python)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
+- Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
 
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
