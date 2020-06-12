@@ -99,6 +99,11 @@ article: true
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
+## Snippets criado pela comunidade
+
+- bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que funciona via webhook (Precisará declarar host publica ou utilizar o ngrok)
+
+- bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que funciona via polling, mas retorna o que encontrou via webhook para a base (Não tem necessidade de declarar host publica ou utilizar o ngrok)
 
 _Bots para outras plataformas_
 
