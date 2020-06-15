@@ -103,7 +103,7 @@ article: true
 
 - Bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
 
-- bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **sem Frameworks / SDK / Wrapper do Telegram**
+- Bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **Sem Frameworks / SDK / Wrapper do Telegram**.
 
 - Terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
