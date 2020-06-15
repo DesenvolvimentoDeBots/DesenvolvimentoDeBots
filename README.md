@@ -101,7 +101,7 @@ article: true
 
 ## Snippets criado pela comunidade
 
-- bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*)
+- Bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
 
 - bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **sem Frameworks / SDK / Wrapper do Telegram**
 
