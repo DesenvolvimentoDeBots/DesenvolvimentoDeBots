@@ -109,7 +109,7 @@ article: true
 
 - Check chat ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função para analisar se o ID definido nela, deixou o chat bloqueado para o bot enviar novas mensagem.
 
-- Check chat execute ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
+- Check chat execute ([GitHub](https://gist.github.com/VycktorStark/578af80b406d259aa22de40319ff9f5a)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
 
 _Bots para outras plataformas_
 
