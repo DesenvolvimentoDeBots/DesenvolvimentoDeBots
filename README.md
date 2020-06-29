@@ -107,6 +107,10 @@ article: true
 
 - Terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
+- Check chat ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função para analisar se o ID definido nela, deixou o chat bloqueado para o bot enviar novas mensagem.
+
+- Check chat execute ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
+
 _Bots para outras plataformas_
 
 - Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
