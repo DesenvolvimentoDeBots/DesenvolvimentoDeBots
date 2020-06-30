@@ -119,7 +119,7 @@ _Bots para outras plataformas_
 
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
-- Taylor Whatsapp Bot ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
+- Taylor Whatsapp Bot [Whatsapp] ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
