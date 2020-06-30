@@ -107,7 +107,7 @@ article: true
 
 - Terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
-- handler API-TELERAM-BOT ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API-TELEGRAM-BOT, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar um Frameworks / SDK / Wrapper do Telegram**.
+- Handler API Telegram Bot ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API Telegram Bot, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar uma Frameworks / SDK / Wrapper do Telegram**.
 
 - Check chat ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função para analisar se o ID definido nela, deixou o chat bloqueado para o bot enviar novas mensagem.
 
