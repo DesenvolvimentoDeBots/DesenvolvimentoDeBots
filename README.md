@@ -115,6 +115,8 @@ _Bots para outras plataformas_
 
 - Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
 
+- Userbot-ZAPBOT [Facebook] ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
+
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
 - Taylor Whatsapp Bot ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
