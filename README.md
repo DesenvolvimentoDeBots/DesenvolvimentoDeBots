@@ -107,6 +107,8 @@ article: true
 
 - Terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
+- Handler API Telegram Bot ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API Telegram Bot, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar uma Frameworks / SDK / Wrapper do Telegram**.
+
 - Check chat ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função para analisar se o ID definido nela, deixou o chat bloqueado para o bot enviar novas mensagem.
 
 - Check chat execute ([GitHub](https://gist.github.com/VycktorStark/578af80b406d259aa22de40319ff9f5a)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
@@ -115,9 +117,11 @@ _Bots para outras plataformas_
 
 - Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
 
+- Userbot-Zapbot [Whatsapp] ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
+
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
-- Taylor Whatsapp Bot ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
+- Taylor Whatsapp Bot [Whatsapp] ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
