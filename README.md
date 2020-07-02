@@ -99,6 +99,8 @@ article: true
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
+- SaoGabrielEmFoco_bot ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
+
 *Snippets de bots*
 
 - Bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
