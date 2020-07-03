@@ -124,5 +124,5 @@ _Bots para outras plataformas_
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
 
-## Contribuir
-Crie um novo [Issue](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots/issues/new) ou [Pull Request](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots/compare) com a url que deseja adicionar.
+## Como Contribuir ?
+Crie um novo [Issue](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots/issues/new) ou [Pull Request](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots/compare) com a url que deseja adicionar, lembre-se o repositorio está organizado em ordem alfabetica de acordo com os nomes do desenvolvedores/criadores.
