@@ -55,8 +55,6 @@ article: true
 *Bots desenvolvido pelos membros do grupo*
 - Bot Packagist ([GitHub](https://github.com/vitormattos/bot-packagist)) - Membro(s): [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
 
-- Currencies Robot ([GitHub](https://github.com/joaokhaled/Currencies-Robot)) - Membro(s): [Khaled](https://github.com/joaokhaled) - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
-
 - Easy Currency [(@easy_currency_bot)](https://telegram.me/easy_currency_bot) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 
 - ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
