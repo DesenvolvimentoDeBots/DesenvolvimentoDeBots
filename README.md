@@ -53,7 +53,7 @@ article: true
 
 ## Projetos criado pela comunidade
 *Bots desenvolvido pelos membros do grupo*
-- [@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
+- SaoGabrielEmFoco [@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
 
 - Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 
@@ -85,15 +85,15 @@ article: true
 
 - F.R.I.D.A.Y. ([GitHub](https://github.com/VycktorStark/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
 
-- [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
+- MathGameRobot [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
 
 - Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot simples, feito em Python + AIML.
 
 - Robô Db ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 
-- [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
+- Simsimi Robot [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
 
-- [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
+- TetasRobot [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
