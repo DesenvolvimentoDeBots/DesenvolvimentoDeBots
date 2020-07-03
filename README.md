@@ -53,13 +53,19 @@ article: true
 
 ## Projetos criado pela comunidade
 *Bots desenvolvido pelos membros do grupo*
-- Bot Packagist ([GitHub](https://github.com/vitormattos/bot-packagist)) - Membro(s): [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
+- [@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
 
-- Easy Currency [(@easy_currency_bot)](https://telegram.me/easy_currency_bot) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
+- Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 
-- ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
+- RastreioBot ([@RastreioBot](https://t.me/RastreioBot)) ([GitHub](https://github.com/GabrielRF/RastreioBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
+
+- Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
+
+- ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
 
 - Myinstantsbot [(@Myinstantsbot)](https://telegram.me/Myinstantsbot) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
+
+- ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 
 - RobôED [(@EdRobot)](https://telegram.me/EdRobot) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
 
@@ -71,31 +77,25 @@ article: true
 
 - SpotifyTelegram ([GitHub](https://github.com/TiagoDanin/SpotifyTelegram)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
 
-- Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
+- Easy Currency [(@easy_currency_bot)](https://telegram.me/easy_currency_bot) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 
-- ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
-
-- RastreioBot ([@RastreioBot](https://t.me/RastreioBot)) ([GitHub](https://github.com/GabrielRF/RastreioBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
-
-- Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
-
-- [@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
-
-- Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
-
-- F.R.I.D.A.Y. ([GitHub](https://github.com/VycktorStark/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
-
-- Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot simples, feito em Python + AIML.
+- Bot Packagist ([GitHub](https://github.com/vitormattos/bot-packagist)) - Membro(s): [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
 
 - DbBot ([GitHub](https://github.com/VycktorStark/DbBot.git)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) e [Adilson Cavalcante](https://github.com/Player4NoobWinner) - Um Telegram Bot simples que pode ser executado até no Qpython (android), feito em Python.
 
-- Robô Db ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
+- F.R.I.D.A.Y. ([GitHub](https://github.com/VycktorStark/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
 
 - [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
+
+- Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot simples, feito em Python + AIML.
+
+- Robô Db ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 
 - [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
 
 - [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
+
+- Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
 *Snippets de bots*
 
@@ -103,7 +103,7 @@ article: true
 
 - Bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **Sem Frameworks / SDK / Wrapper do Telegram**.
 
-- Terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
+- Bot terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
 - Handler API Telegram Bot ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API Telegram Bot, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar uma Frameworks / SDK / Wrapper do Telegram**.
 
@@ -113,13 +113,13 @@ article: true
 
 _Bots para outras plataformas_
 
-- Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
-
-- Userbot-Zapbot [Whatsapp] ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
-
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
 - Taylor Whatsapp Bot [Whatsapp] ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
+
+- Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
+
+- Userbot-Zapbot [Whatsapp] ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
