@@ -59,7 +59,7 @@ article: true
 
 - Easy Currency [(@easy_currency_bot)](https://telegram.me/easy_currency_bot) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 
-- F.R.I.D.A.Y. ([GitHub](https://github.com/DialogWizards/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
+- F.R.I.D.A.Y. ([GitHub](https://github.com/VycktorStark/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
 
 - ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 
