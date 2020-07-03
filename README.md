@@ -59,8 +59,6 @@ article: true
 
 - ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 
-- imguradbot [(@imguradbot)](https://telegram.me/imguradbot) - Membro(s): [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para baixar imagens de álbuns do Imgur.
-
 - Myinstantsbot [(@Myinstantsbot)](https://telegram.me/Myinstantsbot) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
 
 - RobôED [(@EdRobot)](https://telegram.me/EdRobot) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
