@@ -61,7 +61,11 @@ article: true
 
 - Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
 
-- ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/julianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
+- ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
+
+- autokickbot [(@autokickbot)](https://telegram.me/autokickbot) ([GitHub](https://github.com/jvlianodorneles/autokickbot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot que expulsa todo usuário que entrar no grupo, após o bot ser adicionado como administrador.
+
+- pitacobot [(@pitacobot)](https://telegram.me/pitacobot) ([GitHub](https://github.com/jvlianodorneles/pitacobot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para para avaliar coletivamente sugestões feitas no seu grupo.
 
 - Myinstantsbot [(@Myinstantsbot)](https://telegram.me/Myinstantsbot) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
 
