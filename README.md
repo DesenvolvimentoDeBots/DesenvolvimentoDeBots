@@ -53,7 +53,7 @@ article: true
 
 ## Projetos criado pela comunidade
 *Bots desenvolvido pelos membros do grupo*
-- SaoGabrielEmFoco [@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
+- SaoGabrielEmFoco ([@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot)) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
 
 - Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
 
@@ -61,29 +61,29 @@ article: true
 
 - Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
 
-- ts2chbot [(@ts2chbot)](https://telegram.me/ts2chbot) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
+- ts2chbot ([@ts2chbot](https://telegram.me/ts2chbot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
 
-- autokickbot [(@autokickbot)](https://telegram.me/autokickbot) ([GitHub](https://github.com/jvlianodorneles/autokickbot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot que expulsa todo usuário que entrar no grupo, após o bot ser adicionado como administrador.
+- autokickbot ([@autokickbot](https://telegram.me/autokickbot)) ([GitHub](https://github.com/jvlianodorneles/autokickbot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot que expulsa todo usuário que entrar no grupo, após o bot ser adicionado como administrador.
 
-- pitacobot [(@pitacobot)](https://telegram.me/pitacobot) ([GitHub](https://github.com/jvlianodorneles/pitacobot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para para avaliar coletivamente sugestões feitas no seu grupo.
+- pitacobot ([@pitacobot](https://telegram.me/pitacobot)) ([GitHub](https://github.com/jvlianodorneles/pitacobot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para para avaliar coletivamente sugestões feitas no seu grupo.
 
 - Userbot para rádio stream ([GitHub](https://github.com/jvlianodorneles/shockwaveradio)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um userbot para rodar um stream de rádio quando receber ligações, baseado em [MadelineProto](https://github.com/danog/MadelineProto) e [libtgvoip](https://github.com/danog/php-libtgvoip).
 
-- Myinstantsbot [(@Myinstantsbot)](https://telegram.me/Myinstantsbot) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
+- Myinstantsbot ([@Myinstantsbot](https://telegram.me/Myinstantsbot)) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
 
 - ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
 
-- RobôED [(@EdRobot)](https://telegram.me/EdRobot) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
+- RobôED ([@EdRobot](https://telegram.me/EdRobot)) ([Site](https://synko.com.br)) - Membro(s): [[Equipe] Synko Developers](https://synko.com.br) - Fui criado pra tornar seu grupo mais divertido e organizado.
 
 - SendCH-Telegram ([GitHub](https://github.com/TiagoDanin/SendCH-Telegram)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Um webapp para enviar mensagem com suporte a Markdown no Telegram.
 
 - SiD ([GitHub](https://github.com/TiagoDanin/SiD)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado no Otouto com suporte a Inline.
 
-- SiDBot [(@sidbot)](https://telegram.me/sidbot) ([GitHub](https://github.com/TiagoDanin/SiDBot)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
+- SiDBot ([@sidbot](https://telegram.me/sidbot)) ([GitHub](https://github.com/TiagoDanin/SiDBot)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
 
 - SpotifyTelegram ([GitHub](https://github.com/TiagoDanin/SpotifyTelegram)) - Membro(s): [TiagoDanin](https://github.com/TiagoDanin) - Uma coleção de plugins para busca no Spotify.
 
-- Easy Currency [(@easy_currency_bot)](https://telegram.me/easy_currency_bot) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
+- Easy Currency ([@easy_currency_bot](https://telegram.me/easy_currency_bot)) - Membro(s): [Thomas Groch](https://github.com/thomasgroch) - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins.
 
 - Bot Packagist ([GitHub](https://github.com/vitormattos/bot-packagist)) - Membro(s): [VitorMattos](https://github.com/vitormattos) - Um Telegram Bot para pesquisar em packagist.org
 
@@ -91,15 +91,15 @@ article: true
 
 - F.R.I.D.A.Y. ([GitHub](https://github.com/VycktorStark/Friday)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot escrito em Python, com gerenciamento de plugins.
 
-- MathGameRobot [@MathGameRobot](https://t.me/MathGameRobot) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
+- MathGameRobot ([@MathGameRobot](https://t.me/MathGameRobot)) ([GitHub](https://github.com/VycktorStark/MathGame)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot que possuir um jogo matematico, feito em Python com a lib Telepot.
 
 - Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot simples, feito em Python + AIML.
 
 - Robô Db ([GitHub](https://github.com/VycktorStark/DbRobot-Lua)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark), [Adilson Cavalcante](https://github.com/Player4NoobWinner) e [Wesley Henrique](https://github.com/Synk0) - Um Telegram Bot em LUA, feito baseado em projetos como da equipe Synko Developers e do ([SiD](https://github.com/TiagoDanin/SiD)) feito pelo [TiagoDanin](https://github.com/TiagoDanin).
 
-- Simsimi Robot [@SimiRobot](https://t.me/SimiRobot) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
+- Simsimi Robot ([@SimiRobot](https://t.me/SimiRobot)) ([GitHub](https://github.com/VycktorStark/SimSimi)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um chatterbot que usar a [api do simsimi](http://developer.simsimi.com/api) para conversar com outros usuários, feito em python.
 
-- TetasRobot [@TetasRobot](https://t.me/TetasRobot) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
+- TetasRobot ([@TetasRobot](https://t.me/TetasRobot)) ([GitHub](https://github.com/VycktorStark/TetasRobot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Telegram Bot NSFW, feito em Python com a lib Telepot.
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
