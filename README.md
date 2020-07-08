@@ -32,12 +32,12 @@ article: true
 - [Telepot - Python](https://github.com/nickoala/telepot)
 - [Telethon - Python](https://github.com/LonamiWebs/Telethon)
 
-*APIs*
+##### *APIs*
 - [Botan](http://botan.io/)
 - [PWRTelegram API](http://pwrtelegram.xyz/)
 - [Telegram API](https://core.telegram.org/bots/api)
 
-*Hospedagem para seu bot*
+##### *Hospedagem para seu bot*
 - [Codenvy](https://codenvy.com/)
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
@@ -103,7 +103,7 @@ article: true
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
-*Snippets de bots*
+##### *Snippets de bots*
 
 - Bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
 
@@ -117,7 +117,7 @@ article: true
 
 - Check chat execute ([GitHub](https://gist.github.com/VycktorStark/578af80b406d259aa22de40319ff9f5a)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
 
-_Bots para outras plataformas_
+##### _Bots para outras plataformas_
 
 - Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
