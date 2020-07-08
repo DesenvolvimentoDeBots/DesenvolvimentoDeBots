@@ -67,6 +67,8 @@ article: true
 
 - pitacobot [(@pitacobot)](https://telegram.me/pitacobot) ([GitHub](https://github.com/jvlianodorneles/pitacobot)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um bot para para avaliar coletivamente sugestões feitas no seu grupo.
 
+- Userbot para rádio stream ([GitHub](https://github.com/jvlianodorneles/shockwaveradio)) - Membro(s): [Juliano Dorneles](https://t.me/jvlianodorneles) - Um userbot para rodar um stream de rádio quando receber ligações, baseado em [MadelineProto](https://github.com/danog/MadelineProto) e [libtgvoip](https://github.com/danog/php-libtgvoip).
+
 - Myinstantsbot [(@Myinstantsbot)](https://telegram.me/Myinstantsbot) ([GitHub](https://github.com/heylouiz/myinstantsbot)) - Membro(s): [Heylouiz](https://github.com/heylouiz) - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
 
 - ImageVisionBot ([GitHub](https://github.com/0x7067/imagevision-bot)) - Membro(s): [Pedro Guimarães](https://github.com/0x7067) - Um Telegram bot que usa visão computacional para descrever imagens.
