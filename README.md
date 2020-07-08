@@ -119,13 +119,13 @@ article: true
 
 ##### _Bots para outras plataformas_
 
-- Taylor Bot Discord [Discord] ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
+- Taylor Bot Discord ([Discord](https://discord.com/)) ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
-- Taylor Whatsapp Bot [Whatsapp] ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
+- Taylor Whatsapp Bot ([Whatsapp](https://web.whatsapp.com/)) ([GitHub](https://github.com/francis-taylor/zapbot)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Um Bot Simples para Whatsapp utilizando Selenium-Webdriver
 
-- Facebot [Facebook] ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
+- Facebot ([Facebook](https://www.facebook.com/)) ([GitHub](https://github.com/VycktorStark/Facebot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usa a API do Facebook, feito em Python.
 
-- Userbot-Zapbot [Whatsapp] ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
+- Userbot-Zapbot ([Whatsapp](https://web.whatsapp.com/)) ([GitHub](https://github.com/VycktorStark/Userbot-ZAPBOT)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa de Whatsapp em uma conta bot, feito em Python utilizando Selenium-Webdriver.
 
 ## Grupos parecidos
 - [Bot Development - English](https://telegram.me/BotDevelopment)
