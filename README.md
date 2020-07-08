@@ -105,17 +105,18 @@ article: true
 
 ##### *Snippets de bots*
 
-- Bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
-
-- Bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **Sem Frameworks / SDK / Wrapper do Telegram**.
-
 - Bot terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
-
-- Handler API Telegram Bot ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API Telegram Bot, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar uma Frameworks / SDK / Wrapper do Telegram**.
 
 - Check chat ([GitHub](https://gist.github.com/VycktorStark/58454ddafe9ff0444332c69606aafbfc)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função para analisar se o ID definido nela, deixou o chat bloqueado para o bot enviar novas mensagem.
 
 - Check chat execute ([GitHub](https://gist.github.com/VycktorStark/578af80b406d259aa22de40319ff9f5a)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de função criada para analisar se o ID definido deixou o bate-papo bloqueado para o bot; se verdadeiro, o bot informará o administrador do bot.
+
+- Manipulador para API-Telegram-Bot ([GitHub](https://gist.github.com/VycktorStark/326ec526b13cbfbb8270071bffc4724e)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um manipulado para API Telegram Bot, basicamente ele comunicará com a API enviando os argumentos necessários **sem precisar escrever muito código ou usar uma Frameworks / SDK / Wrapper do Telegram**.
+
+- Rodando bot via polling ([GitHub](https://gist.github.com/VycktorStark/f65c7842ffccf6b29b2598628b0c02af)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via polling **Sem Frameworks / SDK / Wrapper do Telegram**.
+
+- Rodando bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
+
 
 ##### _Bots para outras plataformas_
 
