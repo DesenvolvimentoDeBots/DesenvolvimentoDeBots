@@ -52,7 +52,7 @@ article: true
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
 
 ## Projetos criado pela comunidade
-*Bots desenvolvido pelos membros do grupo*
+### _Bots desenvolvido pelos membros do grupo_
 - SaoGabrielEmFoco ([@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot)) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
 
 - Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
