@@ -32,7 +32,7 @@ article: true
 - [Telepot - Python](https://github.com/nickoala/telepot)
 - [Telethon - Python](https://github.com/LonamiWebs/Telethon)
 
-##### *APIs*
+### *APIs*
 - [Botan](http://botan.io/)
 - [PWRTelegram API](http://pwrtelegram.xyz/)
 - [Telegram API](https://core.telegram.org/bots/api)
