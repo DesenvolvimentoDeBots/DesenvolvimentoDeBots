@@ -118,7 +118,7 @@ article: true
 - Rodando bot via webhook ([GitHub](https://gist.github.com/VycktorStark/63645f875e056569f5bf5fe713123c86)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um exemplo de bot que funciona via webhook **Sem Frameworks / SDK / Wrapper do Telegram** (*Precisará declarar host publica ou utilizar o ngrok*).
 
 
-##### _Bots para outras plataformas_
+### _Bots para outras plataformas_
 
 - Taylor Bot Discord ([Discord](https://discord.com/)) ([GitHub](https://github.com/francis-taylor/Taylorbot-Discord)) - Membro(s): [Francis Taylor](https://github.com/francis-taylor) - Versão do Taylor Robot feito para o Discord.
 
