@@ -103,7 +103,7 @@ article: true
 
 - Userbot ([GitHub](https://github.com/VycktorStark/Userbot)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um Userbot que transformará sua conta de usuário ou uma conta alternativa em uma conta bot, feito em Python com a lib Telethon.
 
-##### *Snippets de bots*
+### _Snippets de bots_
 
 - Bot terminal controller ([GitHub](https://gist.github.com/VycktorStark/5814972dc02fc8946061b246a3594c62)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Um bot simples que usar framework telepot para "controlar o terminal remotamente" (*basicamente o bot executar uma ação no terminal e envia o retorno no chat*).
 
