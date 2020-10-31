@@ -30,6 +30,7 @@ article: true
 - [Telegram Cli Client - PHP](https://github.com/zyberspace/php-telegram-cli-client)
 - [Telepot - JavaScript](https://github.com/mullwar/telebot)
 - [Telepot - Python](https://github.com/nickoala/telepot)
+- [Telegram To Object - Python](https://github.com/francis-taylor/TgToObj)
 
 *APIs*
 - [Botan](http://botan.io/)
