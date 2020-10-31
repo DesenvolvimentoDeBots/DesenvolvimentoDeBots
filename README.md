@@ -4,7 +4,7 @@
 Grupo de discussão sobre desenvolvimento de robôs para Telegram.
 
 ## Regras
-[Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)](https://github.com/brazil-it-groups/code-of-conduct)
+[Seguimos o seguinte código de conduta](https://github.com/brazil-it-groups/code-of-conduct)
 
 E também, discussão sobre ManyBot, Chatfuel entre outros criadores de bot autônomos não é permito.
 <!--
