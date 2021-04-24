@@ -24,6 +24,7 @@ article: true
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
 - [Python Telegram Bot - Python](https://github.com/python-telegram-bot/python-telegram-bot)
 - [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
+- [Telegram Bot API - GO](https://github.com/go-telegram-bot-api/telegram-bot-api)
 - [Telegram Bot Bash - Bash](https://github.com/topkecleon/telegram-bot-bash)
 - [Telegram Bot PHP SDK - PHP](https://telegram-bot-sdk.readme.io/docs)
 - [Telegram Bot Java Library - Java](https://github.com/rubenlagus/TelegramBots)
