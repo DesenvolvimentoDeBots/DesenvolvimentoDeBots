@@ -52,6 +52,12 @@ article: true
 - [Criando um Bot para o Telegram em PHP - Parte 2](http://luizmarcus.com/php/como-criar-um-bot-para-o-telegram-em-php-parte-2/)
 - [Fazendo um bot para Telegram em Python](https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/)
 
+**English Only**
+
+- [Making an interactive Telegram bot in Go (Golang)](https://www.sohamkamani.com/golang/telegram-bot/)
+- [Write and deploy Golang Telegram Bot](https://dev.to/talentlessguy/create-and-deploy-golang-telegram-bot-2dl0)
+- [How I Built a Simple Telegram Bot in Go](https://aranair.github.io/posts/2016/12/25/how-to-set-up-golang-telegram-bot-with-webhooks/)
+
 ## Projetos criado pela comunidade
 ### _Bots desenvolvido pelos membros do grupo_
 - SaoGabrielEmFoco ([@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot)) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
