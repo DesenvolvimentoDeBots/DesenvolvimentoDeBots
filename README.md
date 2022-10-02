@@ -45,6 +45,7 @@ article: true
 - [OpenShift](https://www.openshift.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
 - [Scaleway](https://www.scaleway.com/)
+- [Fly Global Application Platform](https://fly.io/)
 
 ## Tutoriais
 - [Bot Minicurso Telegram usando PHP](https://github.com/vitormattos/bot-minicurso-telegram)
