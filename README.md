@@ -16,6 +16,7 @@ article: true
 ## Ferramentas
 ### *Frameworks / SDK / Wrapper para Telegram*
 - [Botgram - JavaScript](https://github.com/botgram/botgram)
+- [Dicgram - Python](https://github.com/marcellobatiista/Dicgram)
 - [Jack Telegram Bot - MoonScript](https://github.com/Imandaneshi/jack-telegram-bot)
 - [MadelineProto - PHP](https://github.com/danog/MadelineProto) Implementação de MTProto em PHP.
 - [Margelet - Go](https://github.com/zhulik/margelet)
